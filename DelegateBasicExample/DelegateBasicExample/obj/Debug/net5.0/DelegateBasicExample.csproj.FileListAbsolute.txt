@@ -1,0 +1,16 @@
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\bin\Debug\net5.0\DelegateBasicExample.exe
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\bin\Debug\net5.0\DelegateBasicExample.deps.json
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\bin\Debug\net5.0\DelegateBasicExample.runtimeconfig.json
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\bin\Debug\net5.0\DelegateBasicExample.runtimeconfig.dev.json
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\bin\Debug\net5.0\DelegateBasicExample.dll
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\bin\Debug\net5.0\ref\DelegateBasicExample.dll
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\bin\Debug\net5.0\DelegateBasicExample.pdb
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\DelegateBasicExample.csproj.AssemblyReference.cache
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\DelegateBasicExample.AssemblyInfoInputs.cache
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\DelegateBasicExample.AssemblyInfo.cs
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\DelegateBasicExample.csproj.CoreCompileInputs.cache
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\DelegateBasicExample.dll
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\ref\DelegateBasicExample.dll
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\DelegateBasicExample.pdb
+E:\PracticasProgrmación\courseC#\DelegateBasicExample\DelegateBasicExample\obj\Debug\net5.0\DelegateBasicExample.genruntimeconfig.cache
