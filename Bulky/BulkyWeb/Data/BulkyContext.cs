@@ -19,22 +19,22 @@ namespace BulkyWeb.Data
                 new Category
                 {
                     CategoryId = 1,
-                    Name = "Action",
-                    DisplayOrder = 1,
+                    Name = "Action"
+                   
 
                 },
                 new Category
                 {
                     CategoryId = 2,
-                    Name = "Terror",
-                    DisplayOrder = 2,
+                    Name = "Terror"
+                  
 
                 },
                 new Category
                 {
                     CategoryId = 3,
-                    Name = "Kids",
-                    DisplayOrder = 3,
+                    Name = "Kids"
+                   
 
                 }
 
